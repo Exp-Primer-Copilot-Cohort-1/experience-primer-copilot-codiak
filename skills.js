@@ -1,3 +1,8 @@
 function calculateNumbers(var1, var2) {
     return var1 + var2;
 }
+
+function moreSkills(member) {
+    member.skills = ["Reading", "Writing", "Math"];
+    return member;
+}
